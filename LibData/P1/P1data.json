@@ -1,0 +1,59 @@
+{
+  "libraryName": "Learning Resource Centre (Phase I)",
+  "computerRooms": [
+    {
+      "level": "L1",
+      "roomName": "L1 (Windows)",
+      "totalComputers": 40,
+      "availableComputers": 12
+    },
+    {
+      "level": "L1",
+      "roomName": "L1 (Mac)",
+      "totalComputers": 60,
+      "availableComputers": 35
+    },
+    {
+      "level": "L2",
+      "roomName": "L2 (Windows)",
+      "totalComputers": 40,
+      "availableComputers": 12
+    },
+    {
+      "level": "L2",
+      "roomName": "L2 (Video-Audio Area)",
+      "totalComputers": 60,
+      "availableComputers": 35
+    },
+    {
+      "level": "L2",
+      "roomName": "L2 (Mac)",
+      "totalComputers": 60,
+      "availableComputers": 35
+    },
+    {
+      "level": "L3",
+      "roomName": "L3 (Windows)",
+      "totalComputers": 40,
+      "availableComputers": 12
+    },
+    {
+      "level": "L3",
+      "roomName": "L3 (Mac)",
+      "totalComputers": 60,
+      "availableComputers": 35
+    },
+    {
+      "level": "L4",
+      "roomName": "L4 (Windows)",
+      "totalComputers": 40,
+      "availableComputers": 12
+    },
+    {
+      "level": "L4",
+      "roomName": "L4 (Mac)",
+      "totalComputers": 60,
+      "availableComputers": 35
+    }
+  ]
+}
