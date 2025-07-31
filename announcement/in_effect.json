@@ -9,14 +9,14 @@
             "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-dev_0.1.1.1.apk"
         },
         "announcement02":{
-            "id": "5",
+            "id": "2",
             "date": "2025/07/31",
             "title": "测试公告",
             "content": "这是一条测试公告",
             "link": "https://turbostudios.org/"
         },
         "announcement03":{
-            "id": "6",
+            "id": "5",
             "date": "2025/07/31",
             "title": "测试公告2",
             "content": "这是第二条测试公告",
