@@ -30,7 +30,7 @@
             "date": "2025/07/31",
             "title": "请立即更新 Please update now",
             "content": "下载链接请按下方“Learn More”\n\nFor the download link, please click \"Learn More\" below.",
-            "targetversioncode": 10003,
+            "targetversioncode": 2,
             "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-release_0.1.2.apk"
         },
         "announcement02":{
