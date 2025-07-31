@@ -13,14 +13,14 @@
             "date": "2025/07/31",
             "title": "测试公告",
             "content": "这是一条测试公告",
-            "link": "https://turbostudios.org/"
+            "link": ""
         },
         "announcement03":{
             "id": "5",
             "date": "2025/07/31",
-            "title": "测试公告2",
-            "content": "这是第二条测试公告",
-            "link": "https://turbostudios.org/"
+            "title": "保持联系 Stay Connected",
+            "content": "欢迎加入 QQ 讨论群，你的声音至关重要！  Join the QQ discussion group, as your voice matters!",
+            "link": "https://qun.qq.com/universal-share/share?ac=1&authKey=1kqkCrPOwpxQrku8Ojdt%2F9spMoh0SMmAPUpJ0HNHcsAWs8g9XXS34fZSS8KfBdeN&busi_data=eyJncm91cENvZGUiOiI0Nzc3NjU1NzAiLCJ0b2tlbiI6ImJvMitFOVhwTWRvQktaemo1U3h4ZGVUVVg3OGhIYXNMOXM5eDBaOEd2UWRlengxWGhiYW5YYWpjUWczTUpEd3EiLCJ1aW4iOiIzNTc1NjA0Mzk4In0%3D&data=CpGyFzVC93gSlGbkpk8r_s4BDkYxvJfAUih1C-Xl78kovW4JUVq1puFyc-l3GpERP9BEIPXMsg2couMjWCwP3A&svctype=4&tempid=h5_group_info"
         }
     },
 
@@ -37,7 +37,7 @@
             "id": "4",
             "date": "2025/07/31",
             "title": "保持联系 Stay Connected",
-            "content": "欢迎加入 QQ 讨论群，你的声音至关重要！  Join the QQ discussion group, as your voice matter!s",
+            "content": "欢迎加入 QQ 讨论群，你的声音至关重要！  Join the QQ discussion group, as your voice matters!",
             "link": "https://qun.qq.com/universal-share/share?ac=1&authKey=1kqkCrPOwpxQrku8Ojdt%2F9spMoh0SMmAPUpJ0HNHcsAWs8g9XXS34fZSS8KfBdeN&busi_data=eyJncm91cENvZGUiOiI0Nzc3NjU1NzAiLCJ0b2tlbiI6ImJvMitFOVhwTWRvQktaemo1U3h4ZGVUVVg3OGhIYXNMOXM5eDBaOEd2UWRlengxWGhiYW5YYWpjUWczTUpEd3EiLCJ1aW4iOiIzNTc1NjA0Mzk4In0%3D&data=CpGyFzVC93gSlGbkpk8r_s4BDkYxvJfAUih1C-Xl78kovW4JUVq1puFyc-l3GpERP9BEIPXMsg2couMjWCwP3A&svctype=4&tempid=h5_group_info"
         }
     }
