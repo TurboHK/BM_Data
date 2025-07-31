@@ -4,7 +4,7 @@
             "id": "1",
             "date": "2025/07/31",
             "title": "请立即更新 Please update now",
-            "content": "下载链接请按下方“Learn More” For the download link, please click \"Learn More\" below.",
+            "content": "下载链接请按下方“Learn More”\nFor the download link, please click \"Learn More\" below.",
             "targetversioncode": 10003,
             "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-dev_0.1.1.1.apk"
         },
