@@ -4,19 +4,19 @@
             "id": "1",
             "date": "2025/07/31",
             "title": "请立即更新 Please update now",
-            "content": "下载链接请按下方“Learn More”\nFor the download link, please click \"Learn More\" below.",
+            "content": "下载链接请按下方“Learn More”\n\nFor the download link, please click \"Learn More\" below.",
             "targetversioncode": 10003,
-            "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-dev_0.1.1.1.apk"
+            "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-dev_0.1.2.apk"
         },
         "announcement02":{
             "id": "2",
             "date": "2025/07/31",
-            "title": "测试公告",
-            "content": "这是一条测试公告\n换行\n\n换行",
-            "link": ""
+            "title": "觉得 BNBU Mobile 怎么样？ What do you think of BNBU Mobile?",
+            "content": "按“Learn More”提供反馈！\n\nPress \"Learn More\" to provide feedack!",
+            "link": "https://forms.office.com/r/QY9usb5JWn"
         },
         "announcement03":{
-            "id": "5",
+            "id": "3",
             "date": "2025/07/31",
             "title": "保持联系 Stay Connected",
             "content": "欢迎加入 QQ 讨论群，你的声音至关重要！加群链接请按“Learn More”。\n\nJoin the QQ discussion group, as your voice matters! Press \"Learn More\" to join.",
@@ -26,15 +26,22 @@
 
     "prod": {
         "announcement01":{
-            "id": "3",
+            "id": "4",
             "date": "2025/07/31",
             "title": "请立即更新 Please update now",
-            "content": "下载链接请按下方“Learn More”\nFor the download link, please click \"Learn More\" below.",
+            "content": "下载链接请按下方“Learn More”\n\nFor the download link, please click \"Learn More\" below.",
             "targetversioncode": 10003,
-            "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-release_0.1.1.apk"
+            "link": "https://github.com/TurboHK/BM_Release/raw/refs/heads/main/pub/apk/pub-release_0.1.2.apk"
         },
         "announcement02":{
-            "id": "4",
+            "id": "5",
+            "date": "2025/07/31",
+            "title": "觉得 BNBU Mobile 怎么样？ What do you think of BNBU Mobile?",
+            "content": "按“Learn More”提供反馈！\n\nPress \"Learn More\" to provide feedack!",
+            "link": "https://forms.office.com/r/QY9usb5JWn"
+        },
+        "announcement03":{
+            "id": "6",
             "date": "2025/07/31",
             "title": "保持联系 Stay Connected",
             "content": "欢迎加入 QQ 讨论群，你的声音至关重要！加群链接请按“Learn More”。\n\nJoin the QQ discussion group, as your voice matters! Press \"Learn More\" to join.",
